@@ -12,4 +12,4 @@ This project requires to create an virtual environment. It is recommended to cre
 2. From the terminal, type the following command: ```conda env create -f youtube-comments-analysis-env.yml```
 3. After the packages are installed and the environment is set, you can set your IDE's interpreter using the newly created environment.
 
-**You are now set to run the notebooks!**
+**You are now ready to run the notebooks!**
