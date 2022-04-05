@@ -7,9 +7,9 @@ This project is an Aspect-Based Sentiment Analysis of YouTube Comments. There ar
 - **comments-absa-gsdmm:** This is an additional notebook. It Contains the main code for the Aspect-Based Sentiment Analysis of YouTube Comments with a GSDMM Model for the topics modelling section.
 
 ## How to Install and Run the Project
-This project requires to create an virtual environment. It is necessary to create a conda environment using the following steps:
+This project requires to create a conda environment using the following steps:
 1. From the terminal, go to the directory of the project.
-2. From the terminal, type the following command: ```conda env create -f youtube-comments-analysis-env.yml```
+2. From the terminal, type the following command: ```conda env create -f requirements.yml```
 3. After the packages are installed and the environment is set, you can set your IDE's interpreter using the newly created environment.
 
 **You are now ready to run the notebooks!**
